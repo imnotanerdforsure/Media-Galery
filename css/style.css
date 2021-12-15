@@ -290,18 +290,18 @@ button.card-more:active{
   box-shadow: var(--shadow2)
 }
 /*-- Card Backgrounds --*/
-.one .thumb {background-image: url('https://picsum.photos/300/200/?image=0');}
-.two .thumb {background-image: url('https://picsum.photos/300/200/?image=24');}
-.three .thumb {background-image: url('https://picsum.photos/300/200/?image=35');}
-.four .thumb {background-image: url('https://picsum.photos/300/200/?image=44');}
-.five .thumb {background-image: url('https://picsum.photos/300/200/?image=54');}
-.six .thumb {background-image: url('https://picsum.photos/300/200/?image=59');}
-.seven .thumb {background-image: url('https://picsum.photos/300/200/?image=71');}
-.eight .thumb {background-image: url('https://picsum.photos/300/200/?image=32');}
-.nine .thumb {background-image: url('https://picsum.photos/300/200/?image=19');}
-.ten .thumb {background-image: url('https://picsum.photos/300/200/?image=113');}
-.eleven .thumb {background-image: url('https://picsum.photos/300/200/?image=23');}
-.twelve .thumb {background-image: url('https://picsum.photos/300/200/?image=60');}
+.one .thumb {background-image: url('https://picsum.photos/300/200/?image=77');}
+.two .thumb {background-image: url('https://picsum.photos/300/200/?image=54');}
+.three .thumb {background-image: url('https://picsum.photos/300/200/?image=78');}
+.four .thumb {background-image: url('https://picsum.photos/300/200/?image=12');}
+.five .thumb {background-image: url('https://picsum.photos/300/200/?image=104');}
+.six .thumb {background-image: url('https://picsum.photos/300/200/?image=66');}
+.seven .thumb {background-image: url('https://picsum.photos/300/200/?image=92');}
+.eight .thumb {background-image: url('https://picsum.photos/300/200/?image=24');}
+.nine .thumb {background-image: url('https://picsum.photos/300/200/?image=82');}
+.ten .thumb {background-image: url('https://picsum.photos/300/200/?image=84');}
+.eleven .thumb {background-image: url('https://picsum.photos/300/200/?image=89');}
+.twelve .thumb {background-image: url('https://picsum.photos/300/200/?image=76');}
 
 
 /*-- Modal Styles --*/
